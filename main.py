@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import core_logic_custom as core
 import visualizer_custom as viz
 
-DEM_PATH = "C:/Users/yadu3/OneDrive/Documents/Research Projects/Mars_MGS_MOLA_DEM_mosaic_global_463m.tif"
+DEM_PATH = "[YOUR_CUSTOM_PATH]/Mars_MGS_MOLA_DEM_mosaic_global_463m.tif"
 LABEL_PATH = "labels/labeled_points.json"
 MODEL_PATH = "models/classifier_model.npz"
 PREDICTION_THRESHOLD = 0.9
